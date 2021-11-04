@@ -17,3 +17,9 @@ npm install --save-dev jest
 ```
 
 # looking forward to writing more tests.
+
+# jest.io guides:
+
+# getting started: https://jestjs.io/docs/getting-started
+
+# matchers: https://jestjs.io/docs/using-matchers
